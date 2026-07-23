@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <title>Over mij | Aura e Luce — Fine-art hondenfotografie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Over Aura e Luce: een hobbyproject met professionele ambities, gericht op rustige, grafische hondenportretten.">
+  <link rel="canonical" href="https://www.auraeluce.nl/over-mij">
+  <meta property="og:title" content="Over mij | Aura e Luce">
+  <meta property="og:description" content="Lees meer over de visie achter de fine-art hondenfotografie van Aura e Luce.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta name="robots" content="index,follow">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header>
+  <a class="logo-mark" href="/">
+    <span>AURA E LUCE</span>
+  </a>
+  <nav aria-label="Hoofdmenu">
+    <a href="/">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="about.html" aria-current="page">Over mij</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section class="section" aria-labelledby="about-title">
+    <div class="section-header">
+      <div>
+        <p class="section-kicker">Over mij</p>
+        <h1 id="about-title" class="section-title">Aura e Luce in het kort.</h1>
+      </div>
+      <p class="section-body">
+        Aura e Luce is een fotografisch project waarin ik honden gebruik als onderwerp om met licht, vorm en rust
+        te werken. Ik fotografeer niet commercieel, maar wel met dezelfde aandacht voor detail die je van een
+        professionele studio mag verwachten: zorgvuldig gekozen locaties, gecontroleerde lichtbronnen en een
+        minimale, grafische stijl.
+      </p>
+    </div>
+
+    <div class="callout">
+      <p>
+        Geen tarieven, geen pakketten. Wel tijd, aandacht en ruimte om samen tot beelden te komen die bij jou
+        en je hond passen.
+      </p>
+      <a class="btn btn-primary" href="contact.html">Plan een sessie</a>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <p>Aura e Luce — fine-art hondenfotografie.</p>
+      <p>© 2026 Aura e Luce. Alle rechten voorbehouden.</p>
+    </div>
+    <div class="footer-links" aria-label="Footer navigatie">
+      <a href="portfolio.html">Portfolio</a>
+      <a href="about.html" aria-current="page">Over mij</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

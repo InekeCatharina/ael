@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <title>Aura e Luce | Fine-art hondenfotografie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Aura e Luce biedt fine-art hondenfotografie: tijdloze portretten met licht, karakter en compositie als hoofdrol.">
+  <link rel="canonical" href="https://www.auraeluce.nl/">
+  <meta property="og:title" content="Aura e Luce — Fine-art hondenfotografie">
+  <meta property="og:description" content="Geen simpele kiekjes, maar kunstwerken met persoonlijkheid. Ontdek het portfolio of plan een sessie.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta name="robots" content="index,follow">
+
+  <!-- Structured data voor SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Aura e Luce",
+    "description": "Fine-art hondenfotografie in Nederland",
+    "url": "https://www.auraeluce.nl/",
+    "@id": "https://www.auraeluce.nl/#studio",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Nederland"
+    },
+    "priceRange": "€€",
+    "sameAs": []
+  }
+  </script>
+
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header>
+  <a class="logo-mark" href="/">
+    <span>AURA E LUCE</span>
+  </a>
+  <nav aria-label="Hoofdmenu">
+    <a href="/" aria-current="page">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="about.html">Over mij</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero" aria-labelledby="hero-title">
+    <div>
+      <p class="hero-kicker">Fine-art hondenfotografie</p>
+      <h1 id="hero-title">Elke hond een kunstwerk, elke foto een stille dialoog.</h1>
+      <p class="hero-lede">
+        Ik fotografeer honden vanuit pure hobby, zonder tarief. Niet als snelle snapshot, maar als zorgvuldig
+        opgebouwd beeld waarin licht, karakter en compositie samenkomen. Het resultaat: tijdloze portretten
+        met een eigen ziel.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="portfolio.html">Bekijk het portfolio</a>
+        <a class="btn btn-outline" href="contact.html">Boek een sessie</a>
+      </div>
+    </div>
+    <aside class="hero-card" aria-label="Voorbeeld fine-art portret">
+      <div class="hero-image" role="img" aria-label="Gestileerd fine-art hondenportret met warme lichtval"></div>
+      <div class="hero-meta">
+        <span>Fine-art hondenfotografie</span>
+        <span>Geen tarieven, wel tijd en aandacht</span>
+      </div>
+    </aside>
+  </section>
+
+  <section class="section" aria-labelledby="why-title">
+    <div class="section-header">
+      <div>
+        <p class="section-kicker">Waarom honden</p>
+        <h2 id="why-title" class="section-title">Pure emotie, zonder pose.</h2>
+      </div>
+      <p class="section-body">
+        Ik heb geen klassieke "hondenliefhebber"-identiteit, maar ik fotografeer honden graag omdat ze zich
+        niet verstoppen. In elke blik, beweging en rustige seconde tonen ze precies wie ze zijn. In dat rauwe,
+        ongefilterde karakter vind ik de ruimte om met licht en compositie te werken tot elk beeld meer wordt dan
+        een leuke foto: een kunstwerk dat blijft hangen.
+      </p>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="recent-title">
+    <div class="section-header">
+      <div>
+        <p class="section-kicker">Uitgelicht</p>
+        <h2 id="recent-title" class="section-title">Recent werk.</h2>
+      </div>
+      <a class="btn btn-outline" href="portfolio.html">Volledig portfolio</a>
+    </div>
+
+    <div class="grid-portfolio">
+      <article class="card-tile">
+        <p class="card-tag">Portret</p>
+        <h3 class="card-title">Stille blik</h3>
+        <div class="card-thumb" role="img" aria-label="Intiem hondenportret in zacht licht"></div>
+      </article>
+      <article class="card-tile">
+        <p class="card-tag">Actie</p>
+        <h3 class="card-title">In beweging</h3>
+        <div class="card-thumb" role="img" aria-label="Hond in beweging met grafische compositie"></div>
+      </article>
+      <article class="card-tile">
+        <p class="card-tag">Puppy</p>
+        <h3 class="card-title">Eerste lente</h3>
+        <div class="card-thumb" role="img" aria-label="Puppyportret met zachte achtergrond"></div>
+      </article>
+      <article class="card-tile">
+        <p class="card-tag">Buiten</p>
+        <h3 class="card-title">In het veld</h3>
+        <div class="card-thumb" role="img" aria-label="Fine-art hondenportret in buitenlucht"></div>
+      </article>
+    </div>
+
+    <div class="callout">
+      <p>
+        Klaar voor een tijdloos portret van je hond? Laten we samen op zoek gaan naar het licht en het karakter
+        dat jouw hond uniek maakt.
+      </p>
+      <a class="btn btn-primary" href="contact.html">Neem contact op</a>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <p>Aura e Luce — fine-art hondenfotografie.</p>
+      <p>© 2026 Aura e Luce. Alle rechten voorbehouden.</p>
+    </div>
+    <div class="footer-links" aria-label="Footer navigatie">
+      <a href="portfolio.html">Portfolio</a>
+      <a href="about.html">Over mij</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

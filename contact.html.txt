@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <title>Contact | Aura e Luce — Fine-art hondenfotografie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Neem contact op om een fine-art hondensessie te plannen of een vraag te stellen over het portfolio.">
+  <link rel="canonical" href="https://www.auraeluce.nl/contact">
+  <meta property="og:title" content="Contact | Aura e Luce">
+  <meta property="og:description" content="Stuur een bericht om een sessie te plannen of meer te weten te komen over Aura e Luce.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta name="robots" content="index,follow">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header>
+  <a class="logo-mark" href="/">
+    <span>AURA E LUCE</span>
+  </a>
+  <nav aria-label="Hoofdmenu">
+    <a href="/">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="about.html">Over mij</a>
+    <a href="contact.html" aria-current="page">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section class="section" aria-labelledby="contact-title">
+    <div class="section-header">
+      <div>
+        <p class="section-kicker">Contact</p>
+        <h1 id="contact-title" class="section-title">Plan een sessie.</h1>
+      </div>
+      <p class="section-body">
+        Heb je interesse in een fine-art portret van je hond, of wil je eerst wat meer weten over werkwijze en
+        mogelijkheden? Stuur een bericht met een korte beschrijving van je hond, jouw idee en eventuele
+        voorkeuren voor locatie of sfeer.
+      </p>
+    </div>
+
+    <form class="callout" action="https://formspree.io/f/your-id" method="post">
+      <div style="flex:1 1 auto; display:flex; flex-direction:column; gap:10px;">
+        <label>
+          Naam
+          <input name="name" type="text" required
+                 style="width:100%; padding:8px 10px; border-radius:999px;
+                        border:1px solid rgba(255,255,255,0.16); background:rgba(0,0,0,0.6);
+                        color:#f5f5f5; font-size:13px;">
+        </label>
+        <label>
+          E-mailadres
+          <input name="email" type="email" required
+                 style="width:100%; padding:8px 10px; border-radius:999px;
+                        border:1px solid rgba(255,255,255,0.16); background:rgba(0,0,0,0.6);
+                        color:#f5f5f5; font-size:13px;">
+        </label>
+        <label>
+          Bericht
+          <textarea name="message" required rows="5"
+                    style="width:100%; padding:10px 12px; border-radius:18px;
+                           border:1px solid rgba(255,255,255,0.16); background:rgba(0,0,0,0.6);
+                           color:#f5f5f5; font-size:13px; resize:vertical;"></textarea>
+        </label>
+      </div>
+      <button class="btn btn-primary" type="submit">Verstuur bericht</button>
+    </form>
+  </section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <p>Aura e Luce — fine-art hondenfotografie.</p>
+      <p>© 2026 Aura e Luce. Alle rechten voorbehouden.</p>
+    </div>
+    <div class="footer-links" aria-label="Footer navigatie">
+      <a href="portfolio.html">Portfolio</a>
+      <a href="about.html">Over mij</a>
+      <a href="contact.html" aria-current="page">Contact</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

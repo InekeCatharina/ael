@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio | Aura e Luce — Fine-art hondenfotografie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Een selectie fine-art hondenportretten: portret, actie, puppy en buitenlocaties, allemaal met zorg gecomponeerd.">
+  <link rel="canonical" href="https://www.auraeluce.nl/portfolio">
+  <meta property="og:title" content="Portfolio | Aura e Luce">
+  <meta property="og:description" content="Ontdek recente fine-art hondenportretten in verschillende stijlen.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="nl_NL">
+  <meta name="robots" content="index,follow">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header>
+  <a class="logo-mark" href="/">
+    <span>AURA E LUCE</span>
+  </a>
+  <nav aria-label="Hoofdmenu">
+    <a href="/">Home</a>
+    <a href="portfolio.html" aria-current="page">Portfolio</a>
+    <a href="about.html">Over mij</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <section class="section" aria-labelledby="portfolio-title">
+    <div class="section-header">
+      <div>
+        <p class="section-kicker">Portfolio</p>
+        <h1 id="portfolio-title" class="section-title">Fine-art hondenportretten.</h1>
+      </div>
+      <p class="section-body">
+        Deze selectie toont de stijl waarin ik werk: grafische rust, gecontroleerd licht en aandacht voor kleine
+        details. Elke sessie is anders, maar altijd gericht op het karakter van de hond en een beeld dat ook jaren
+        later nog klopt.
+      </p>
+    </div>
+
+    <div class="grid-portfolio">
+      <article class="card-tile">
+        <p class="card-tag">Portret</p>
+        <h2 class="card-title">Stille blik</h2>
+        <div class="card-thumb" role="img" aria-label="Intiem hondenportret tegen donkere achtergrond"></div>
+      </article>
+      <article class="card-tile">
+        <p class="card-tag">Actie</p>
+        <h2 class="card-title">In beweging</h2>
+        <div class="card-thumb" role="img" aria-label="Hond rennend door het veld"></div>
+      </article>
+      <article class="card-tile">
+        <p class="card-tag">Puppy</p>
+        <h2 class="card-title">Eerste lente</h2>
+        <div class="card-thumb" role="img" aria-label="Puppy in zacht tegenlicht"></div>
+      </article>
+      <article class="card-tile">
+        <p class="card-tag">Buiten</p>
+        <h2 class="card-title">In het veld</h2>
+        <div class="card-thumb" role="img" aria-label="Hondenportret op locatie"></div>
+      </article>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <div>
+      <p>Aura e Luce — fine-art hondenfotografie.</p>
+      <p>© 2026 Aura e Luce. Alle rechten voorbehouden.</p>
+    </div>
+    <div class="footer-links" aria-label="Footer navigatie">
+      <a href="portfolio.html" aria-current="page">Portfolio</a>
+      <a href="about.html">Over mij</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
